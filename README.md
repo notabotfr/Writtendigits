@@ -100,4 +100,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-[MIT License](LICENSE) (or your preferred license)
+[MIT License](LICENSE)
